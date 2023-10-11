@@ -1,5 +1,5 @@
 # Praktikum 3
-Selles prakitkumis paigaldasin Ubuntu kasutades LVM ketaste vormindamist.                                                                                                   
+Selles praktikumis paigaldasin Ubuntu kasutades LVM ketaste vormindamist.                                                                                                   
 Paigaldasin ja katsetasin Lubuntut
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/4a640fe7-88a6-490b-93b2-a882129305d7)
 
