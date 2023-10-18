@@ -13,7 +13,7 @@ Peale seda seadistasin windowsi tulemüüri.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/e4df1c3a-4665-420c-a423-1ee691dbde4b)
 Vahetasin failide õigusi, andsin ülemusele õiguse lugeda faili, kuid mitte muuta.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/5c72d2c0-d3cf-4adb-923c-7887aaeabd05)
-                   Ülesanne 4.6 Windows soovitas sisse lülitada mälu terviklikuse.
+                                                                 Ülesanne 4.6 Windows soovitas sisse lülitada mälu terviklikuse.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/6960be12-5719-48aa-b639-10910c68eb58)
 Üritasin thonnyt alla tõmmata kasutajaga, mil puudusid õigused.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/7155357a-ec7b-4fba-8306-849728a3c6e5)
