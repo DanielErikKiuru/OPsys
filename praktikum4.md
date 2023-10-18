@@ -16,6 +16,7 @@ Vahetasin failide õigusi, andsin ülemusele õiguse lugeda faili, kuid mitte mu
                                                                  Ülesanne 4.6 Windows soovitas sisse lülitada mälu terviklikuse.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/6960be12-5719-48aa-b639-10910c68eb58)
 Üritasin thonnyt alla tõmmata kasutajaga, mil puudusid õigused.
+
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/7155357a-ec7b-4fba-8306-849728a3c6e5)
 Vahetasin seadeid nii, et programmi alla tõmbamiseks küsitakse admin kasutajat ja parooli.
 ![image](https://github.com/DanielErikKiuru/OPsys/assets/146202163/c107e3f0-95c8-4bd1-9f45-1b19d6882d9e)
